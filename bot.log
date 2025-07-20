@@ -1,0 +1,145 @@
+2025-07-20 11:36:00,345 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 11:36:00,346 [INFO] Bot ishga tushdi!
+2025-07-20 11:36:00,355 [INFO] Start polling
+2025-07-20 11:36:00,471 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:36:00,813 [INFO] /start from user_id=1212795522
+2025-07-20 11:36:00,820 [INFO] User registered: 1212795522 Og'abek Marimov
+2025-07-20 11:36:01,190 [INFO] Update id=259582903 is handled. Duration 377 ms by bot id=7685166946
+2025-07-20 11:36:10,351 [INFO] Update id=259582904 is handled. Duration 312 ms by bot id=7685166946
+2025-07-20 11:36:33,549 [INFO] Update id=259582905 is handled. Duration 250 ms by bot id=7685166946
+2025-07-20 11:36:42,661 [INFO] Update id=259582906 is handled. Duration 144 ms by bot id=7685166946
+2025-07-20 11:36:44,908 [INFO] Update id=259582907 is handled. Duration 258 ms by bot id=7685166946
+2025-07-20 11:36:47,288 [INFO] Update id=259582908 is handled. Duration 249 ms by bot id=7685166946
+2025-07-20 11:36:58,259 [INFO] Update id=259582909 is handled. Duration 154 ms by bot id=7685166946
+2025-07-20 11:37:03,625 [INFO] Update id=259582910 is handled. Duration 135 ms by bot id=7685166946
+2025-07-20 11:37:12,816 [INFO] Update id=259582911 is handled. Duration 464 ms by bot id=7685166946
+2025-07-20 11:41:04,273 [WARNING] Received SIGINT signal
+2025-07-20 11:41:04,284 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:41:04,285 [INFO] Polling stopped
+2025-07-20 11:41:04,285 [INFO] Bot to'xtatildi!
+2025-07-20 11:41:04,406 [INFO] Webhook o'chirildi
+2025-07-20 11:41:08,010 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 11:41:08,011 [INFO] Bot ishga tushdi!
+2025-07-20 11:41:08,013 [INFO] Start polling
+2025-07-20 11:41:08,126 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:41:15,557 [INFO] /start from user_id=1212795522
+2025-07-20 11:41:15,937 [INFO] Update id=259582912 is handled. Duration 380 ms by bot id=7685166946
+2025-07-20 11:41:18,797 [INFO] Update id=259582913 is handled. Duration 381 ms by bot id=7685166946
+2025-07-20 11:41:32,796 [INFO] Update id=259582914 is handled. Duration 150 ms by bot id=7685166946
+2025-07-20 11:41:42,937 [INFO] Update id=259582915 is handled. Duration 164 ms by bot id=7685166946
+2025-07-20 11:41:44,931 [INFO] Update id=259582916 is handled. Duration 425 ms by bot id=7685166946
+2025-07-20 11:41:48,899 [INFO] Update id=259582917 is handled. Duration 393 ms by bot id=7685166946
+2025-07-20 11:42:26,128 [INFO] Update id=259582918 is handled. Duration 282 ms by bot id=7685166946
+2025-07-20 11:44:21,786 [INFO] Update id=259582919 is handled. Duration 236 ms by bot id=7685166946
+2025-07-20 11:44:31,716 [INFO] Update id=259582920 is handled. Duration 452 ms by bot id=7685166946
+2025-07-20 11:47:06,175 [WARNING] Received SIGINT signal
+2025-07-20 11:47:06,181 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:47:06,182 [INFO] Polling stopped
+2025-07-20 11:47:06,182 [INFO] Bot to'xtatildi!
+2025-07-20 11:47:06,301 [INFO] Webhook o'chirildi
+2025-07-20 11:47:09,188 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 11:47:09,188 [INFO] Bot ishga tushdi!
+2025-07-20 11:47:09,189 [INFO] Start polling
+2025-07-20 11:47:09,303 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:47:14,452 [INFO] /start from user_id=1212795522
+2025-07-20 11:47:14,831 [INFO] Update id=259582921 is handled. Duration 382 ms by bot id=7685166946
+2025-07-20 11:47:16,474 [INFO] Update id=259582922 is handled. Duration 392 ms by bot id=7685166946
+2025-07-20 11:47:36,885 [INFO] Update id=259582923 is handled. Duration 149 ms by bot id=7685166946
+2025-07-20 11:47:43,958 [INFO] Update id=259582924 is handled. Duration 150 ms by bot id=7685166946
+2025-07-20 11:47:46,127 [INFO] Update id=259582925 is handled. Duration 439 ms by bot id=7685166946
+2025-07-20 11:47:49,824 [INFO] Update id=259582926 is handled. Duration 384 ms by bot id=7685166946
+2025-07-20 11:48:05,339 [INFO] Update id=259582927 is handled. Duration 149 ms by bot id=7685166946
+2025-07-20 11:48:10,275 [INFO] Update id=259582928 is handled. Duration 247 ms by bot id=7685166946
+2025-07-20 11:48:14,089 [INFO] Update id=259582929 is handled. Duration 411 ms by bot id=7685166946
+2025-07-20 11:49:10,612 [INFO] /adminhelp from user_id=1212795522
+2025-07-20 11:49:10,757 [INFO] Update id=259582930 is handled. Duration 147 ms by bot id=7685166946
+2025-07-20 11:49:17,772 [INFO] /admin from user_id=1212795522
+2025-07-20 11:49:17,922 [INFO] Update id=259582931 is handled. Duration 154 ms by bot id=7685166946
+2025-07-20 11:49:23,111 [INFO] /cancel from user_id=1212795522
+2025-07-20 11:49:23,248 [INFO] Update id=259582932 is handled. Duration 137 ms by bot id=7685166946
+2025-07-20 11:49:26,638 [INFO] /start from user_id=1212795522
+2025-07-20 11:49:26,800 [INFO] Update id=259582933 is handled. Duration 163 ms by bot id=7685166946
+2025-07-20 11:49:38,046 [INFO] /users from user_id=1212795522
+2025-07-20 11:49:38,234 [INFO] Update id=259582934 is handled. Duration 190 ms by bot id=7685166946
+2025-07-20 11:49:40,614 [INFO] /stats from user_id=1212795522
+2025-07-20 11:49:40,745 [INFO] Update id=259582935 is handled. Duration 131 ms by bot id=7685166946
+2025-07-20 11:50:05,582 [INFO] /start from user_id=7529762622
+2025-07-20 11:50:05,598 [INFO] User registered: 7529762622 ogabek
+2025-07-20 11:50:05,740 [INFO] Update id=259582936 is handled. Duration 164 ms by bot id=7685166946
+2025-07-20 11:50:51,243 [INFO] /admin from user_id=7529762622
+2025-07-20 11:50:51,468 [INFO] Update id=259582937 is handled. Duration 228 ms by bot id=7685166946
+2025-07-20 11:52:11,955 [WARNING] Received SIGINT signal
+2025-07-20 11:52:11,964 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:52:11,965 [INFO] Polling stopped
+2025-07-20 11:52:11,966 [INFO] Bot to'xtatildi!
+2025-07-20 11:52:12,100 [INFO] Webhook o'chirildi
+2025-07-20 11:52:15,221 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 11:52:15,222 [INFO] Bot ishga tushdi!
+2025-07-20 11:52:15,224 [INFO] Start polling
+2025-07-20 11:52:15,339 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:52:16,558 [INFO] /start from user_id=7529762622
+2025-07-20 11:52:17,226 [INFO] Update id=259582938 is handled. Duration 668 ms by bot id=7685166946
+2025-07-20 11:52:20,261 [INFO] Update id=259582939 is handled. Duration 384 ms by bot id=7685166946
+2025-07-20 11:57:32,178 [WARNING] Received SIGINT signal
+2025-07-20 11:57:32,186 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:57:32,186 [INFO] Polling stopped
+2025-07-20 11:57:32,187 [INFO] Bot to'xtatildi!
+2025-07-20 11:57:32,302 [INFO] Webhook o'chirildi
+2025-07-20 11:57:35,051 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 11:57:35,053 [INFO] Bot ishga tushdi!
+2025-07-20 11:57:35,054 [INFO] Start polling
+2025-07-20 11:57:35,165 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 11:57:37,399 [INFO] /start from user_id=7529762622
+2025-07-20 11:57:37,920 [INFO] Update id=259582940 is handled. Duration 521 ms by bot id=7685166946
+2025-07-20 11:57:39,458 [INFO] Update id=259582941 is handled. Duration 395 ms by bot id=7685166946
+2025-07-20 11:57:41,165 [INFO] Update id=259582942 is handled. Duration 388 ms by bot id=7685166946
+2025-07-20 11:57:45,422 [INFO] Update id=259582943 is handled. Duration 398 ms by bot id=7685166946
+2025-07-20 11:57:49,576 [INFO] Update id=259582944 is handled. Duration 453 ms by bot id=7685166946
+2025-07-20 11:57:56,347 [INFO] Update id=259582945 is handled. Duration 132 ms by bot id=7685166946
+2025-07-20 11:57:58,767 [INFO] Update id=259582946 is handled. Duration 386 ms by bot id=7685166946
+2025-07-20 11:58:00,462 [INFO] Update id=259582947 is handled. Duration 379 ms by bot id=7685166946
+2025-07-20 11:58:05,625 [INFO] Update id=259582948 is handled. Duration 146 ms by bot id=7685166946
+2025-07-20 11:58:08,539 [INFO] Update id=259582949 is handled. Duration 254 ms by bot id=7685166946
+2025-07-20 11:58:10,625 [INFO] Update id=259582950 is handled. Duration 606 ms by bot id=7685166946
+2025-07-20 12:01:03,128 [WARNING] Received SIGINT signal
+2025-07-20 12:01:03,133 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 12:01:03,133 [INFO] Polling stopped
+2025-07-20 12:01:03,134 [INFO] Bot to'xtatildi!
+2025-07-20 12:01:03,252 [INFO] Webhook o'chirildi
+2025-07-20 12:01:06,484 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 12:01:06,484 [INFO] Bot ishga tushdi!
+2025-07-20 12:01:06,485 [INFO] Start polling
+2025-07-20 12:01:06,599 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 12:01:07,406 [INFO] /start from user_id=7529762622
+2025-07-20 12:01:07,950 [INFO] Update id=259582951 is handled. Duration 544 ms by bot id=7685166946
+2025-07-20 12:01:09,247 [INFO] Update id=259582952 is handled. Duration 287 ms by bot id=7685166946
+2025-07-20 12:01:11,278 [INFO] Update id=259582953 is handled. Duration 348 ms by bot id=7685166946
+2025-07-20 12:01:13,604 [INFO] Update id=259582954 is handled. Duration 279 ms by bot id=7685166946
+2025-07-20 12:01:15,873 [INFO] Update id=259582955 is handled. Duration 325 ms by bot id=7685166946
+2025-07-20 12:01:31,045 [INFO] Update id=259582956 is handled. Duration 141 ms by bot id=7685166946
+2025-07-20 12:01:33,085 [INFO] Update id=259582957 is handled. Duration 401 ms by bot id=7685166946
+2025-07-20 12:01:35,438 [INFO] Update id=259582958 is handled. Duration 389 ms by bot id=7685166946
+2025-07-20 12:01:41,410 [INFO] Update id=259582959 is handled. Duration 147 ms by bot id=7685166946
+2025-07-20 12:01:46,344 [INFO] Update id=259582960 is handled. Duration 312 ms by bot id=7685166946
+2025-07-20 12:01:48,111 [INFO] Update id=259582961 is handled. Duration 697 ms by bot id=7685166946
+2025-07-20 12:04:57,622 [WARNING] Received SIGINT signal
+2025-07-20 12:04:57,631 [INFO] Polling stopped for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 12:04:57,632 [INFO] Polling stopped
+2025-07-20 12:04:57,633 [INFO] Bot to'xtatildi!
+2025-07-20 12:04:57,752 [INFO] Webhook o'chirildi
+2025-07-20 12:05:00,835 [INFO] Bot polling rejimida ishga tushmoqda...
+2025-07-20 12:05:00,835 [INFO] Bot ishga tushdi!
+2025-07-20 12:05:00,838 [INFO] Start polling
+2025-07-20 12:05:01,022 [INFO] Run polling for bot @marimovs_market_bot id=7685166946 - 'marimovs market'
+2025-07-20 12:05:03,462 [INFO] /start from user_id=7529762622
+2025-07-20 12:05:03,968 [INFO] Update id=259582962 is handled. Duration 506 ms by bot id=7685166946
+2025-07-20 12:05:05,618 [INFO] Update id=259582963 is handled. Duration 250 ms by bot id=7685166946
+2025-07-20 12:05:07,331 [INFO] Update id=259582964 is handled. Duration 418 ms by bot id=7685166946
+2025-07-20 12:05:08,634 [INFO] Update id=259582965 is handled. Duration 256 ms by bot id=7685166946
+2025-07-20 12:05:10,425 [INFO] Update id=259582966 is handled. Duration 386 ms by bot id=7685166946
+2025-07-20 12:05:16,799 [INFO] Update id=259582967 is handled. Duration 201 ms by bot id=7685166946
+2025-07-20 12:05:19,138 [INFO] Update id=259582968 is handled. Duration 502 ms by bot id=7685166946
+2025-07-20 12:05:22,533 [INFO] Update id=259582969 is handled. Duration 446 ms by bot id=7685166946
+2025-07-20 12:05:29,602 [INFO] Update id=259582970 is handled. Duration 178 ms by bot id=7685166946
+2025-07-20 12:05:34,395 [INFO] Update id=259582971 is handled. Duration 370 ms by bot id=7685166946
+2025-07-20 12:05:36,585 [INFO] Update id=259582972 is handled. Duration 612 ms by bot id=7685166946
